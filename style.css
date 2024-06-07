@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+:root{
+    --cor-de-fundo:#4d063d;
+    --roxo:#d258d4;
+    --branco: #d7d5d5;
+    --botao-ativo:#3A375E;
+    --botao-inativo: rgba(58,55,94,0.5);
+    --texto-fundo:rgba(58,55,94,0.3);
+}
+body{
+    background-color: var(--cor-de-fundo);
+    color: var(--branco);
+    font-family: 'Playfair Display', sans-serif;
+}
